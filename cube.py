@@ -1,0 +1,6 @@
+a=int(input("Enter a number"))
+b=(a*a)
+c=(a*a*a)
+d=(a**(1/2))
+e=(a**(1/3))
+print(" the square",b, "\n the cube",c, "\n the square root",d, "\n the cube root",e)
